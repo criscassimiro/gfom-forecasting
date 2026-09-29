@@ -1,0 +1,3 @@
+variante,n_obs,n_fallback_single_class_folds,precision,recall,f1,tp,fp,fn,tn
+logistic_unweighted,192,2,0.22727272727272727,0.8333333333333334,0.35714285714285715,10,34,2,146
+logistic_balanced,192,2,0.18,0.75,0.2903225806451613,9,41,3,139

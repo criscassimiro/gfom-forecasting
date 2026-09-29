@@ -1,0 +1,18 @@
+# Dados brutos (não versionados: tamanho e origem ONS)
+*.csv
+*.xlsx
+!resultados_referencia/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Variantes locais/scratch
+*_local.py

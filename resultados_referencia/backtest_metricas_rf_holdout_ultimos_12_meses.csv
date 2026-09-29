@@ -1,0 +1,2 @@
+tipo_backtest,escopo,mae,rmse,r2,smape,precision,recall,f1,n_obs,n_meses,n_eventos_obs,n_eventos_pred
+holdout_ultimos_12_meses,consolidado,0.6929129866284435,3.147036758047003,-3.197751875252232,0.07266143095234733,0.6666666666666666,1.0,0.8,48.0,12.0,2.0,3.0

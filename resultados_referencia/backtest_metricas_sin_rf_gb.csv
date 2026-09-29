@@ -1,0 +1,3 @@
+﻿modelo;nivel_avaliacao;mae;rmse;r2;precision;recall;f1_score;n_obs;n_eventos_reais;n_eventos_preditos
+Random Forest;SIN_agregado_mensal;9,1681;31,2601;0,3028;0,8;0,6667;0,7273;48;6;5
+Gradient Boosting;SIN_agregado_mensal;9,2678;31,2422;0,3035;0,8;0,6667;0,7273;48;6;5
